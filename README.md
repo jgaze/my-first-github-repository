@@ -2,3 +2,5 @@
 My first
 
 Conflict resolved
+
+New line was added locally
